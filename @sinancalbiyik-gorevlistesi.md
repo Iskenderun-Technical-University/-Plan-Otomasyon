@@ -9,7 +9,7 @@
  - [ ] 7. Devam eden işlerin görüntülendiği sayfa (23.04.2022)
  
  
-                                               Projenin Kodlanması ( Yönetici Sayfası ) @sinancalbiyik
+                                        Projenin Kodlanması ( Yönetici Sayfası ) @sinancalbiyik
                                        
  - [ ] 1. Yönetici sayfası kodlarının yazılması (09.06.2022)
       - [ ] 1.1. Çalışan bilgisinin girileceği sayfa (01.05.2022)
