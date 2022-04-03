@@ -31,7 +31,7 @@ Yönetici ve çalışanın çok rahat anlabileceği , basit bir şekilde kullana
  
                                                Projenin Kodlanması ( Yönetici Sayfası ) @sinancalbiyik
                                        
- - [ ] 1. Yönetici sayfası kodlarının yazılması (09.06.2022)
+ - [ ] 1. Yönetici sayfası kodlarının yazılması (30.05.2022)
       - [ ] 1.1. Çalışan bilgisinin girileceği sayfa (01.05.2022)
       - [ ] 1.2. Müşteri bilgisinin girileceği sayfa (06.05.2022)
       - [ ] 1.3. Çalışanlara iş bilgisinin gönderilecegi sayfa (14.05.2022)
