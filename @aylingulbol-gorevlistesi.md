@@ -18,4 +18,4 @@
       - [ ] 1.1. Yöneticiden gelen işlerin görüntülüceği sayfa (14.05.2022)
       - [ ] 1.2. Yöneticiye geri bildirim yapılacagı sayfa (17.05.2022)
       - [ ] 1.3. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (20.05.2022)
-      - [ ] 1.4. Müşteri bilgilerinin görüntüleceği sayfa (22.05.2022)
+      - [ ] 1.4. Müşteri bilgilerinin görüntüleceği sayfa (23.05.2022)
