@@ -20,12 +20,12 @@ Yönetici ve çalışanın çok rahat anlabileceği , basit bir şekilde kullana
                                    
                                            Otomasyon Tasarımı ( Yönetici Sayfası ) @sinancalbiyik
                                            
- - [ ] 1. Çalışan bilgisinin girileceği sayfa (10.05.2022)
- - [ ] 2. Müşteri bilgisinin girileceği sayfa (11.05.2022)
- - [ ] 3. Çalışanlara iş bilgisinin gönderilecegi sayfa (12.05.2022)
- - [ ] 4. Çalışan gelen iş bildirimlerinin görüntüleneceği sayfa (13.05.2022)
- - [ ] 5. Tamamlanan işlerin görüntülendiği sayfa (16.05.2022)
- - [ ] 6. Devam eden işlerin görüntülendiği sayfa (16.05.2022)
+ - [ ] 1. Çalışan bilgisinin girileceği sayfa (11.05.2022)
+ - [ ] 2. Müşteri bilgisinin girileceği sayfa (12.05.2022)
+ - [ ] 3. Çalışanlara iş bilgisinin gönderilecegi sayfa (13.05.2022)
+ - [ ] 4. Çalışan gelen iş bildirimlerinin görüntüleneceği sayfa (16.05.2022)
+ - [ ] 5. Tamamlanan işlerin görüntülendiği sayfa (17.05.2022)
+ - [ ] 6. Devam eden işlerin görüntülendiği sayfa (17.05.2022)
  
  
                                         Projenin Kodlanması ( Yönetici Sayfası ) @sinancalbiyik
@@ -41,11 +41,11 @@ Yönetici ve çalışanın çok rahat anlabileceği , basit bir şekilde kullana
     
                                        Otomasyon Tasarımı ( Çalışan Sayfası ) @aylingulbol
                                            
-- [ ] 1. Giriş sayfası oluşturma (10.05.2022)
-- [ ] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (10.05.2022)
-- [ ] 3. Yöneticiye geri bildirim yapılacagı sayfa (11.05.2022)
-- [ ] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (12.05.2022)
-- [ ] 5. Müşteri bilgilerinin görüntüleceği sayfa (13.05.2022)
+- [ ] 1. Giriş sayfası oluşturma (11.05.2022)
+- [ ] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (11.05.2022)
+- [ ] 3. Yöneticiye geri bildirim yapılacagı sayfa (12.05.2022)
+- [ ] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (13.05.2022)
+- [ ] 5. Müşteri bilgilerinin görüntüleceği sayfa (16.05.2022)
  
                                              Veritabanının Oluşturulması @aylingulbol
  
