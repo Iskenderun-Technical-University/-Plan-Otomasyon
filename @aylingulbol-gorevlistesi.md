@@ -8,12 +8,12 @@
  
                                              Veritabanının Oluşturulması @aylingulbol
  
- - [ ] 1.Veritabanı taslağının oluşturulması (19.05.2022)
+ - [ ] 1.Veritabanı taslağının oluşturulması (20.05.2022)
  
                                        Projenin Kodlanması ( Çalışan sayfası ) @aylingulbol
                                        
- - [ ] 1. Çalışan sayfası kodlarının yazılması (29.05.2022)
-      - [ ] 1. Giriş sayfası oluşturma (20.05.2022)
+ - [ ] 1. Çalışan sayfası kodlarının yazılması (28.05.2022)
+      - [ ] 1. Giriş sayfası oluşturma (21.05.2022)
       - [ ] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (22.05.2022)
       - [ ] 3. Yöneticiye geri bildirim yapılacagı sayfa (24.05.2022)
       - [ ] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (26.05.2022)
