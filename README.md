@@ -49,7 +49,7 @@ Yönetici ve çalışanın çok rahat anlabileceği , basit bir şekilde kullana
  
                                              Veritabanının Oluşturulması @aylingulbol
  
- - [ ] 1.Veritabanı taslağının oluşturulması (21.05.2022)
+ - [ ] 1.Veritabanı taslağının oluşturulması (22.05.2022)
  
                                        Projenin Kodlanması ( Çalışan sayfası ) @aylingulbol
                                        
