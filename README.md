@@ -12,7 +12,7 @@ Yönetici ve çalışanın çok rahat anlabileceği , basit bir şekilde kullana
 
                                                       Görev Listesi
                                   
-- [ ] 1. Otomasyon Tasarımı   ( Aylin Gülbol , Sinan Çalbıyık )  @aylingulbol @sinancalbiyik
+- [x] 1. Otomasyon Tasarımı   ( Aylin Gülbol , Sinan Çalbıyık )  @aylingulbol @sinancalbiyik
 - [ ] 2. Veritabanı Oluşturma ( Aylin Gülbol ) @aylingulbol
 - [ ] 3. Projenin Kodlanması  ( Aylin Gülbol , Sinan Çalbıyık )  @aylingulbol @sinancalbiyik
                                    
@@ -41,20 +41,20 @@ Yönetici ve çalışanın çok rahat anlabileceği , basit bir şekilde kullana
     
                                        Otomasyon Tasarımı ( Çalışan Sayfası ) @aylingulbol
                                            
-- [x] 1. Giriş sayfası oluşturma (11.05.2022)
-- [x] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (11.05.2022)
-- [x] 3. Yöneticiye geri bildirim yapılacagı sayfa (12.05.2022)
-- [x] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (13.05.2022)
-- [x] 5. Müşteri bilgilerinin görüntüleceği sayfa (18.05.2022)
+- [ ] 1. Giriş sayfası oluşturma (11.05.2022)
+- [ ] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (11.05.2022)
+- [ ] 3. Yöneticiye geri bildirim yapılacagı sayfa (12.05.2022)
+- [ ] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (13.05.2022)
+- [ ] 5. Müşteri bilgilerinin görüntüleceği sayfa (18.05.2022)
  
                                              Veritabanının Oluşturulması @aylingulbol
  
- - [x] 1.Veritabanı taslağının oluşturulması (22.05.2022)
+ - [ ] 1.Veritabanı taslağının oluşturulması (22.05.2022)
  
                                        Projenin Kodlanması ( Çalışan sayfası ) @aylingulbol
                                        
  - [ ] 1. Çalışan sayfası kodlarının yazılması (29.05.2022)
-      - [x] 1. Giriş sayfası oluşturma (22.05.2022)
+      - [ ] 1. Giriş sayfası oluşturma (22.05.2022)
       - [ ] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (23.05.2022)
       - [ ] 3. Yöneticiye geri bildirim yapılacagı sayfa (24.05.2022)
       - [ ] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (26.05.2022)
