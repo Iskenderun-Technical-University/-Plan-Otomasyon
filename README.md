@@ -55,7 +55,7 @@ Yönetici ve çalışanın çok rahat anlabileceği , basit bir şekilde kullana
                                        
  - [ ] 1. Çalışan sayfası kodlarının yazılması (29.05.2022)
       - [x] 1. Giriş sayfası oluşturma (22.05.2022)
-      - [ ] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (23.05.2022)
+      - [x] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (23.05.2022)
       - [ ] 3. Yöneticiye geri bildirim yapılacagı sayfa (24.05.2022)
       - [ ] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (26.05.2022)
       - [ ] 5. Müşteri bilgilerinin görüntüleceği sayfa (28.05.2022)
