@@ -14,7 +14,7 @@ Yönetici ve çalışanın çok rahat anlabileceği , basit bir şekilde kullana
                                   
 - [x] 1. Otomasyon Tasarımı   ( Aylin Gülbol , Sinan Çalbıyık )  @aylingulbol @sinancalbiyik
 - [x] 2. Veritabanı Oluşturma ( Aylin Gülbol ) @aylingulbol
-- [ ] 3. Projenin Kodlanması  ( Aylin Gülbol , Sinan Çalbıyık )  @aylingulbol @sinancalbiyik
+- [x] 3. Projenin Kodlanması  ( Aylin Gülbol , Sinan Çalbıyık )  @aylingulbol @sinancalbiyik
                                    
                                    
                                    
@@ -53,7 +53,7 @@ Yönetici ve çalışanın çok rahat anlabileceği , basit bir şekilde kullana
  
                                        Projenin Kodlanması ( Çalışan sayfası ) @aylingulbol
                                        
- - [ ] 1. Çalışan sayfası kodlarının yazılması (29.05.2022)
+ - [x] 1. Çalışan sayfası kodlarının yazılması (29.05.2022)
       - [x] 1. Giriş sayfası oluşturma (22.05.2022)
       - [x] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (23.05.2022)
       - [x] 3. Yöneticiye geri bildirim yapılacagı sayfa (24.05.2022)
