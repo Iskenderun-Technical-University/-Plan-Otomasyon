@@ -58,4 +58,4 @@ Yönetici ve çalışanın çok rahat anlabileceği , basit bir şekilde kullana
       - [x] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (23.05.2022)
       - [x] 3. Yöneticiye geri bildirim yapılacagı sayfa (24.05.2022)
       - [x] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (26.05.2022)
-      - [ ] 5. Müşteri bilgilerinin görüntüleceği sayfa (28.05.2022)
+      - [x] 5. Müşteri bilgilerinin görüntüleceği sayfa (28.05.2022)
